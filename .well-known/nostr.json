@@ -1,0 +1,18 @@
+{
+  "names": {
+    "alex": "ffef3dded8a526ec9ea8c4f3dd0c09a0833b75556e38941e3198877b0a98dafd",
+    "_": "ffef3dded8a526ec9ea8c4f3dd0c09a0833b75556e38941e3198877b0a98dafd",
+    "ak": "ffef3dded8a526ec9ea8c4f3dd0c09a0833b75556e38941e3198877b0a98dafd", 
+    "nobody": "ffef3dded8a526ec9ea8c4f3dd0c09a0833b75556e38941e3198877b0a98dafd"
+           },
+"relays": {
+    "ffef3dded8a526ec9ea8c4f3dd0c09a0833b75556e38941e3198877b0a98dafd": [
+      "wss://relay.primal.net",
+      "wss://nos.lol",
+      "wss://relay.damus.io",
+      "wss://relay.nostr.band",
+      "wss://nostr.wine",
+      "wss://nostr.land"
+    ]
+  }  
+}
