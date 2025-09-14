@@ -1,0 +1,8 @@
+{
+	"callback":"https://rizful.com/lnurl_two/ak/get_invoice",
+	"maxSendable":100000000000,
+	"minSendable":1000,
+	"metadata":"[[\"text/plain\",\"Sats for AK\"],[\"text/identifier\",\"ak@rizful.com\"]]",
+	"commentAllowed":224,
+	"tag":"payRequest"
+} 
