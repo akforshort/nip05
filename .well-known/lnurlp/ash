@@ -1,0 +1,13 @@
+{
+  "callback": "https://rizful.com/lnurl_two/ash/get_invoice",
+  "minSendable": 1000,
+  "maxSendable": 25000000000,
+  "status": "OK",
+  "tag": "payRequest",
+  "metadata": "[[\"text/plain\",\"Pay Rizful User\"],[\"text/identifier\",\"ash@rizful.com\"]]",
+  "allowsNostr": true,
+  "nostrPubkey": "6c202c684560590ea6029dd6a4bed2255d67ad323fb9c8bb83441113d3ef3a6c",
+  "commentAllowed": 224,
+  "domain": "rizful.com",
+  "username": "ash"
+}
